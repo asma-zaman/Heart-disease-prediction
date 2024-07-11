@@ -1,5 +1,7 @@
 # Heart Disease Predictor using Machine Learning Models
 This project aims to predict the likelihood of a person having heart disease based on various medical and demographic features. The models implemented here leverage machine learning techniques to provide accurate predictions.
+
+
 Features
 Dataset: The model is trained on a dataset containing medical attributes such as age, sex, cholesterol levels, blood pressure, and other relevant factors that contribute to heart disease risk.
 
